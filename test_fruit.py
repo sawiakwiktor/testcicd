@@ -1,1 +1,2 @@
-print("Orange!")
+print("Orange")
+print("Kiwi")
